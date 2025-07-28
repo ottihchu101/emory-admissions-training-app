@@ -20,10 +20,7 @@ emory-admissions-training-app/
 ├── quiz_app.py                          # Main Streamlit application
 ├── questions.csv                        # Editable quiz question bank
 ├── requirements.txt                    # Python dependencies for deployment
-├── assets/
-│   └── emory_logo.png                  # Emory shield or logo
-├── .streamlit/
-│   └── config.toml                     # Optional Streamlit dark theme config
+├──  emory_logo.png                  # Emory shield or logo
 └── venv/                                # Local virtual environment (should not be pushed to GitHub)
 ```
 
