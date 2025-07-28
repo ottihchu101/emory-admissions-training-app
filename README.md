@@ -57,9 +57,9 @@ pip install -r requirements.txt
 streamlit run quiz_app.py
 ```
 
-## 🌐 Live Demo (if deployed)
+## 🌐 Live Demo 
 
-> Coming soon: [https://your-username.streamlit.app](https://your-username.streamlit.app)
+> [https://emory-oue-training.streamlit.app/](https://emory-oue-training.streamlit.app/)
 
 ## 📝 How to Update the Questions
 
